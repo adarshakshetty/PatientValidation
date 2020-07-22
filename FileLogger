@@ -1,0 +1,7 @@
+package com.example.patient.sample;
+
+import com.example.patient.sample.FileHandler;
+
+public class FileLogger {
+FileHandler fileHandler=new FileHandler();
+}
